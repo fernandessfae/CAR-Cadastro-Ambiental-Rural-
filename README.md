@@ -10,8 +10,8 @@ Trata-se de um cadastro eletrônico de âmbito nacional que contempla **(i)** os
 A inscrição no cadastro é **obrigatória** para todos os proprietários e posseiros de imóveis rurais no país e traz inúmeras vantagens e benefícios, tais como:<br/>
 1. Possibilidade de adesão ao Programa de Regularização Ambiental ("PRA");<br/>
 2. Suspensão de sanções em função de infrações administrativas por supressão irregular de vegetação em áreas de Área de Preservação Permanente ("APP"), Reserva Legal e de uso restrito, cometidos até 22/07/2008;<br/>
-3. possibilidade de regularização das Áreas de Preservação Permanente e/ou Reserva Legal; e<br/>
-4. possibilidade de obtenção de crédito agrícola, em todas as suas modalidades, com taxas de juros menores, bem como limites e prazos maiores que os praticado no mercado.<br/><br/>
+3. Possibilidade de regularização das Áreas de Preservação Permanente e/ou Reserva Legal; e<br/>
+4. Possibilidade de obtenção de crédito agrícola, em todas as suas modalidades, com taxas de juros menores, bem como limites e prazos maiores que os praticado no mercado.<br/><br/>
 
 ## Panorama Geral
 Em resumo, o CAR veio tentar resolver o problema do desmatamento punindo os que desmatam e recompensando aqueles que preservam. A partir daí, fiz um levantamento da quantidade de imóveis registrados e a quantidade total da área e todos esse imóveis registrados, em hectares, em cada estado ,utilizando os dados do governo federal, criados em 8 de Agosto de 2018 e com a última atualização em 30 de Março de 2019, para ter acesso a esses dados, basta clicar [aqui](http://dados.gov.br/dataset/cadastro-ambiental-rural).
