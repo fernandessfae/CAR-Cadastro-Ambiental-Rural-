@@ -15,3 +15,18 @@ A inscrição no cadastro é **obrigatória** para todos os proprietários e pos
 
 ## Panorama Geral
 Em resumo, o CAR veio tentar resolver o problema do desmatamento punindo os que desmatam e recompensando aqueles que preservam. A partir daí, fiz um levantamento da quantidade de imóveis registrados e a quantidade total da área e todos esse imóveis registrados, em hectares, em cada estado ,utilizando os dados do governo federal, criados em 8 de Agosto de 2018 e com a última atualização em 30 de Março de 2019, para ter acesso a esses dados, basta clicar [aqui](http://dados.gov.br/dataset/cadastro-ambiental-rural).
+
+### Imóveis Registrados
+Aqui temos um gráfico com os 10 estados com o maior e menor número de imóveis registrados pelo CAR<br/>
+![imóveis maior](https://user-images.githubusercontent.com/48027825/94879535-d6989100-0436-11eb-9f97-b5272e8efe16.png)
+![imóveis menor](https://user-images.githubusercontent.com/48027825/94879537-d7312780-0436-11eb-8714-e483346a66a0.png)
+
+### Área total dos imóveis registrados
+Aqui temos um gráfico com os 10 estados com a maior e menor área total (hectares) de todos os imóveis registrados pelo CAR<br/>
+![area total imoveis maior](https://user-images.githubusercontent.com/48027825/94879560-ef08ab80-0436-11eb-9781-c6aac6ca0398.png)
+![area total imoveis menor](https://user-images.githubusercontent.com/48027825/94879562-efa14200-0436-11eb-917a-d625dee9cce4.png)
+
+### Área média dos imóveis registrados
+Aqui temos um gráfico com os 10 estados com maior e menor área média (hectares) de cada imóvel registrado pelo CAR<br/>
+![area média por imovel maior](https://user-images.githubusercontent.com/48027825/94879583-0051b800-0437-11eb-90ba-f04e7da1f7a2.png)
+![area média por imovel menor](https://user-images.githubusercontent.com/48027825/94879585-00ea4e80-0437-11eb-98c0-be86159c828f.png)
