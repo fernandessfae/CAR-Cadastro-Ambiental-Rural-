@@ -30,3 +30,7 @@ Aqui temos um gráfico com os 10 estados com a maior e menor área total (hectar
 Aqui temos um gráfico com os 10 estados com maior e menor área média (hectares) de cada imóvel registrado pelo CAR<br/>
 ![area média por imovel maior](https://user-images.githubusercontent.com/48027825/94879583-0051b800-0437-11eb-90ba-f04e7da1f7a2.png)
 ![area média por imovel menor](https://user-images.githubusercontent.com/48027825/94879585-00ea4e80-0437-11eb-98c0-be86159c828f.png)
+
+Através desses dois ultimos gráficos, é notório que alguns estados possuem uma quantidade de imóveis proporcional a área de todos eles (Como Santa Catarina e Minas Gerais), enquanto outros possui uma quantidade de imóveis inversamente proporcional a área total de todos eles (Amazonas e Pará)
+
+Para ter acesso a geração dos gráficos acima, clique [aqui](https://github.com/fernandessfae/CAR-Cadastro-Ambiental-Rural-/blob/master/panorama%20geral.py)
